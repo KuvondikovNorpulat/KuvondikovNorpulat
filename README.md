@@ -7,7 +7,7 @@
 
 ## <samp>Hello World!</samp>
 
-<samp>I'm Kuvondikov Norpulat and a UZB-citizen, Uzbekistan 🇺🇿 and Muslim ☪️, currently I'm a Software Engineer in Tashkent, passionate about solving problems with technology and creating different solutions.
+<samp>I'm Kuvondikov Norpulat and a UZB-citizen, Uzbekistan 🇺🇿 and Muslim ☪️, currently I'm a Software Engineer in Tashkent and student of TUIT, passionate about solving problems with technology and creating different solutions.
 
 <samp>I'm also a content creator, I talk about technology, programming, soft skills, career challenges, tips and more. I always try to help people as much as possible, because a phrase I carry with me is "people need people".</samp>
   

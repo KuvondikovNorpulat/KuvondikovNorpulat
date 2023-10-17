@@ -14,8 +14,8 @@
 
 - 💻&nbsp;<samp>I love helping people with the content I share.</samp>
 - 🏡&nbsp;<samp>I love being with my family and friends, they are everything to me.</samp>
-- 🎮&nbsp;<samp>I love to play video game and reading book</samp>
-- ⚽&nbsp;<samp>Passionate about football, Real Madrid 👑</samp>
+- 🎮&nbsp;<samp>I love to play video game and reading book.</samp>
+- ⚽&nbsp;<samp>Passionate about football, Real Madrid 👑.</samp>
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://tuit.uz/)</samp>
 
 ---
